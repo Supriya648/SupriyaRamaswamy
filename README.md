@@ -1,6 +1,7 @@
+<h1>Supriya Ramaswamy </h1>
 # Supriya Ramaswamy
-
-## ACADEMIC PROJECTS                                                                                                                                                                            
+### (806)-319-2274. SUPRIYA24R@GMAIL.COM
+## ACADEMIC PROJECTS                                                                                                                                                       
 #### Design and simulate CMOS LNA using GF/IBM 7RFSOI design kit | Cadence spectre                                           May 2019
 ###### Designed and simulated CMOS LNA in Cadence spectre with given specification such as S-Parameters, P1dB & Gain measurements with a Noise Figure < 1.2dB and at a frequency of 2.5 GHz for a room temperature of 40-degree C.
 #### Design, Build and Test Buck Converter | Keithley 24XX SMU, MD04034C Oscilloscope, PWS2326 Power Supply                  Dec 2018
